@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jakarta Pizza</string>
+    <string name="nama">Name</string>
+    <string name="alamat">Address</string>
+    <string name="nomorhp">Phone Number</string>
+    <string name="menu">Menu :</string>
+    <string name="toppings">Extra Toppings :</string>
+</resources>
